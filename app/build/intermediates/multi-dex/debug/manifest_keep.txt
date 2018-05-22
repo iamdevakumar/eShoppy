@@ -1,0 +1,3 @@
+# Referenced at E:\Devakumar\My personal\Reference\EPOS j1\EPOS jan1\EPOS\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:35
+-keep class com.eclat.firebreathers.epos.Application.EPOSApp { <init>(...); }
+

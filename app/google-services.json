@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281460841173",
+    "firebase_url": "https://epos-9f593.firebaseio.com",
+    "project_id": "epos-9f593",
+    "storage_bucket": "epos-9f593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281460841173:android:48ec1721a4b1c58d",
+        "android_client_info": {
+          "package_name": "com.eclat.firebreathers.epos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281460841173-sgafcirk707ffio1bd45n497vai4igr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eclat.firebreathers.epos",
+            "certificate_hash": "60C0772D62779DF30EC6483B398CA40E7514487C"
+          }
+        },
+        {
+          "client_id": "281460841173-6fl0pbiui9jjarldfjg05c15l79gh8vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURp8hv-ZEnvpE44jyM5MlMChRYtywVVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281460841173-6fl0pbiui9jjarldfjg05c15l79gh8vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Mon Jan 02 11:25:28 IST 2017
+base.0=E\:\\Fire Breathers\\Devakumar\\Dec 31\\EPOS 31st Dec\\EPOS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_51537c62f7f86608366a4ccce99e249ffc318124
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Fire Breathers\\Devakumar\\Dec 31\\EPOS 31st Dec\\EPOS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e7058d8805de096faf3cf8d3bfc03e924c006ca\\classes.dex
+base.1=E\:\\Fire Breathers\\Devakumar\\Dec 31\\EPOS 31st Dec\\EPOS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9e7058d8805de096faf3cf8d3bfc03e924c006ca
+file.0=E\:\\Fire Breathers\\Devakumar\\Dec 31\\EPOS 31st Dec\\EPOS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_51537c62f7f86608366a4ccce99e249ffc318124\\classes.dex

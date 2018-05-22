@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">EPOS</string>
+    <string name="splash_logo">Splash_logo</string>
+    <string name="login_username">Username</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="password">Password</string>
+    <string name="emailid">EmailID</string>
+    <string name="mobile">Mobile</string>
+    <string name="more">More</string>
+    <string name="Offerline1">Offer Zone</string>
+    <string name="Offerline2">Hurry up! Grab your deals &amp; amazing offers</string>
+    <string name="Trending_products">Trending Products</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_contactus">Map</string>
+     <string name="Address">
+        <![CDATA[
+        <p>Eclat Technologies<br/>#11, 2nd Floor,Kamaraj Salai,<br/>Near Rajiv Gandhi Signal,Puducherry, India.<br/> Pin Code - 605009.</p>
+        ]]>
+    </string>
+    <string name="loginuser_name">Android Studio</string>
+    <string name="Already_Reg">Already Registered?</string>
+    <string name="title_activity_offers">Offers</string>
+    <string name="title_activity_navigation_wishlist">Navigation_wishlist</string>
+
+
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="category">Category</string>
+    <string name="specification">Specification</string>
+    <string name="cart">Cart</string>
+    <string name="offers">Offers</string>
+    <string name="forgetpassword">Forget Password?</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="myorders">My Orders</string>
+    <string name="myaccount">My Accounts</string>
+    <string name="proname">Pro Name</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="emptycart">Your cart is empty</string>
+    <string name="emptywishlist">Your wishlist is empty</string>
+    <string name="contactus">Contact us</string>
+    <string name="mobileno">Mobile No</string>
+    <string name="logout">Logout</string>
+    <string name="price">Price</string>
+    <string name="addproducttocart">Please add some products to cart</string>
+    <string name="addproducttowishlist">Please add some products to wishlist</string>
+    <string name="regmobileno">Enter your registered mobile number</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="otp">OTP</string>
+    <string name="sendotp">Send OTP</string>
+    <string name="login">Login</string>
+    <string name="otpnotreceived">Not yet receive OTP ?  click here</string>
+    <string name="or">---------  (or)  ---------</string>
+    <string name="thou">1000</string>
+    <string name="mrp">MRP</string>
+    <string name="verifyotp">Verify OTP</string>
+    <string name="signup">Signup</string>
+    <string name="enterotp">Enter the OTP here</string>
+    <string name="dob">Date of Birth</string>
+    <string name="total">Total</string>
+    <string name="changepwd">Signup</string>
+    <string name="reglater">Register Later</string>
+    <string name="forgetpwdclick">Forget Password ?  click here</string>
+    <string name="newpassword">New Password</string>
+    <string name="reg">Register</string>
+    <string name="exitmenu">Exit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Defaultval">1</string>
+    <string name="enter_the_otp_here">Enter the OTP here</string>
+    <string name="otp1">OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="not_yet_recieve_otp_click_here">Not yet recieve OTP ? click here</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="view_specification">View Specification</string>
+    <string name="relavent_products">Relavent Products</string>
+
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cardheightsinglefrag">80dp</dimen>
+    <dimen name="cardht">130dp</dimen>
+    <dimen name="cardmar">5dp</dimen>
+    <dimen name="cardsizecart">120dp</dimen>
+    <dimen name="drawable_padding">20dp</dimen>
+    <dimen name="edittext_paddingBottom">12dp</dimen>
+    <dimen name="edittext_paddingLeft">8dp</dimen>
+    <dimen name="edittext_paddingRight">8dp</dimen>
+    <dimen name="edittext_paddingTop">12dp</dimen>
+    <dimen name="font_size">11sp</dimen>
+    <dimen name="login_edit_height">46dp</dimen>
+    <dimen name="login_edit_width">250dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="offerfontsize">15sp</dimen>
+    <dimen name="pricefontsize">16sp</dimen>
+    <dimen name="qtycartsize">14sp</dimen>
+    <dimen name="signup_ed_width">300dp</dimen>
+    <dimen name="viewpagerheight">210dp</dimen>
+    <string name="address">Address</string>
+    <string name="change_password">Change Password</string>
+    <string name="exitmenu">Exit</string>
+    <string name="not_yet_recieve_otp_click_here">Not yet recieve OTP ? click here</string>
+    <string name="otp1">OTP</string>
+    <string name="relavent_products">Relavent Products</string>
+    <string name="save">Save</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="view_specification">View Specification</string>
+</resources>

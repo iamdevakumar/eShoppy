@@ -1,0 +1,27 @@
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10"
+        android:background="@color/cardview_light_background">
+
+
+        <TextView
+            android:text="@string/specification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.02"
+            android:textSize="24sp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp" />
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/fullspec"
+            android:background="@android:color/background_light"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="9.98"/>
+    </LinearLayout>

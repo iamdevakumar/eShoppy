@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:theme="@style/Profiletheme"
+    android:padding="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="9.5"
+        android:visibility="visible"
+        android:id="@+id/register_layout">
+       <!-- <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView">-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/linearLayout"
+                android:weightSum="10"
+                android:background="@drawable/bgcolor">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_weight="3">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:id="@+id/imageView2"
+                        android:src="@drawable/eposnew"
+                        android:layout_centerHorizontal="true"
+                        android:layout_gravity="center"
+                        tools:ignore="ObsoleteLayoutParam" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:id="@+id/linearLayout2"
+                    android:layout_weight="1">
+
+                    <EditText
+                        android:layout_height="46dp"
+                        android:hint="@string/login_username"
+                        android:background="@drawable/oveleditboxsignup"
+                        android:drawableLeft="@drawable/login_user"
+                        android:drawablePadding="@dimen/drawable_padding"
+                        android:paddingLeft="@dimen/edittext_paddingLeft"
+                        android:paddingRight="@dimen/edittext_paddingRight"
+                        android:paddingTop="@dimen/edittext_paddingTop"
+                        android:paddingBottom="@dimen/edittext_paddingBottom"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/user_name"
+                        android:inputType="textPersonName"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_width="300dp"
+                        android:textColor="@color/Font_Color" />
+
+
+                    <EditText
+                        android:layout_height="@dimen/login_edit_height"
+                        android:hint="@string/emailid"
+                        android:background="@drawable/oveleditboxsignup"
+                        android:drawableLeft="@drawable/email"
+                        android:drawablePadding="@dimen/drawable_padding"
+                        android:paddingLeft="@dimen/edittext_paddingLeft"
+                        android:paddingRight="@dimen/edittext_paddingRight"
+                        android:paddingTop="@dimen/edittext_paddingTop"
+                        android:paddingBottom="@dimen/edittext_paddingBottom"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/email_id"
+                        android:inputType="textWebEmailAddress"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_width="300dp"
+                        android:textColor="@color/Font_Color" />
+
+
+                    <EditText
+                        android:layout_width="@dimen/signup_ed_width"
+                        android:layout_height="@dimen/login_edit_height"
+                        android:hint="@string/mobile"
+                        android:background="@drawable/oveleditboxsignup"
+                        android:drawableLeft="@drawable/mobile"
+                        android:drawablePadding="@dimen/drawable_padding"
+                        android:paddingLeft="@dimen/edittext_paddingLeft"
+                        android:paddingRight="@dimen/edittext_paddingRight"
+                        android:paddingTop="@dimen/edittext_paddingTop"
+                        android:paddingBottom="@dimen/edittext_paddingBottom"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/mobile_no"
+                        android:inputType="phone"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="@color/Font_Color" />
+
+
+                    <EditText
+                        android:layout_width="@dimen/signup_ed_width"
+                        android:layout_height="@dimen/login_edit_height"
+                        android:hint="@string/password"
+                        android:background="@drawable/oveleditboxsignup"
+                        android:drawableLeft="@drawable/password"
+                        android:drawablePadding="@dimen/drawable_padding"
+                        android:paddingLeft="@dimen/edittext_paddingLeft"
+                        android:paddingRight="@dimen/edittext_paddingRight"
+                        android:paddingTop="@dimen/edittext_paddingTop"
+                        android:paddingBottom="@dimen/edittext_paddingBottom"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/pwd"
+                        android:inputType="textPassword"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="@color/Font_Color" />
+
+                    </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="1">
+                <Button
+                    android:layout_width="@dimen/signup_ed_width"
+                    android:layout_height="@dimen/login_edit_height"
+                    android:text="@string/reg"
+                    android:id="@+id/register_button"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/signupbutton"
+                    android:textColor="@android:color/white" />
+                    </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="@string/Already_Reg"
+                        android:paddingRight="15dp"
+                        tools:ignore="RtlSymmetry"
+                        android:textColor="@color/Font_Color" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="Login"
+                        android:id="@+id/alreadylogin"
+                        android:textColor="@color/sidebardark" />
+                </LinearLayout>
+
+            </LinearLayout>
+     <!-- </ScrollView>-->
+
+    </LinearLayout>
+
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        android:theme="@style/mytheme"
+        android:id="@+id/otp_layout"
+      >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Enter the OTP here"
+            android:id="@+id/enter_otp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="87dp"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Verify OTP"
+            android:id="@+id/verify_otp_btn"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/buttonbackground"
+            android:textColor="@android:color/white" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_above="@+id/verify_otp_btn"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="18dp">
+
+            <EditText
+                android:layout_width="@dimen/login_edit_width"
+                android:layout_height="@dimen/login_edit_height"
+                android:id="@+id/otpsignup"
+                android:inputType="number"
+                android:background="@drawable/oveleditbox"
+                android:layout_below="@+id/enter_otp"
+                android:layout_centerHorizontal="true"
+                android:paddingLeft="20dp"
+                android:hint="OTP"
+                android:layout_marginRight="15dp">
+                <requestFocus/>
+            </EditText>
+
+            <TextView
+                android:id="@+id/timer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="time"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_gravity="center" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Not yet recieve OTP ?  click here"
+            android:id="@+id/send_otp_again"
+            android:layout_marginTop="69dp"
+            android:layout_below="@+id/verify_otp_btn"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exitmenu">Exit</string>
+    <string name="otp1">OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="not_yet_recieve_otp_click_here">Not yet recieve OTP ? click here</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="view_specification">View Specification</string>
+    <string name="relavent_products">Relavent Products</string>
+</resources>

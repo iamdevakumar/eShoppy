@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/Home_cart"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/category"
+        android:icon="@drawable/category"
+        android:title="@string/category" />
+    <item
+        android:id="@+id/offers"
+        android:icon="@drawable/offer"
+        android:title="@string/offers" />
+
+    <item
+        android:id="@+id/wishlist"
+        android:icon="@drawable/wishlist"
+        android:title="@string/wishlist" />
+    <item
+        android:id="@+id/myorder"
+        android:icon="@drawable/myorder"
+        android:title="@string/myorders" />
+    <item
+        android:id="@+id/myaccount"
+        android:icon="@drawable/myaccount"
+        android:title="@string/myaccount" />
+
+
+
+
+    <item
+        android:id="@+id/contactus"
+        android:icon="@drawable/contactus"
+        android:title="@string/contactus" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="@string/logout" />
+
+   <!-- <item
+        android:id="@+id/exit"
+        android:icon="@drawable/exit"
+        android:title="Exit" />
+-->
+
+
+</menu>

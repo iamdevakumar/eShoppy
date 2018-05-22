@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:orderInCategory="200"
+        android:title="@string/notification"
+        android:icon="@drawable/alert"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/action_cart_wishlist"
+        android:orderInCategory="300"
+        android:title="@string/cart"
+        android:icon="@drawable/ic_menu_notification"
+        app:showAsAction="always"/>
+</menu>

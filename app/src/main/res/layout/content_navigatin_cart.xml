@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.eclat.firebreathers.epos.Activities.Cart"
+    tools:showIn="@layout/app_bar_navigatin_cart">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/reg_user"
+        android:visibility="visible"
+        android:orientation="vertical">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/cartrecyclerview"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    </LinearLayout>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/empty_mode"
+    android:visibility="gone">
+    <TextView
+        android:text="@string/emptycart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="18sp"
+        android:layout_marginTop="187dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:text="@string/addproducttocart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textSize="20sp"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/mLlayoutBottomButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="2">
+        <Button
+            android:id="@+id/paybtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="Pay Now" />
+
+</LinearLayout>
+    </android.support.design.widget.CoordinatorLayout>
+</RelativeLayout>
+

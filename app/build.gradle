@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.eclat.firebreathers.epos"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    // compile 'com.google.android.gms:play-services-maps:9.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:cardview-v7:23.4.0'
+    compile 'com.android.support:recyclerview-v7:23.4.0'
+    compile 'com.google.android.gms:play-services-maps:9.6.1'
+    compile 'com.sdsmdg.tastytoast:tastytoast:0.0.4'
+    compile 'com.mikhaellopez:circularimageview:3.0.2'
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
+    compile 'com.synnapps:carouselview:0.0.9'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.githang:viewpagerindicator:2.4.2@aar'
+    compile files('libs/android-viewbadger.jar')
+    testCompile 'junit:junit:4.12'
+}
+
+/*configurations {
+    android {
+        dexOptions {
+            incremental true
+            javaMaxHeapSize "4g"
+        }
+    }*/
+/*     all*.exclude group: 'com.android.support', module: 'support-v4'
+     all*.exclude group: 'com.google.android.gms', module: 'play-services'*/
+//}
+
+/*
+
+apply plugin: 'com.google.gms.google-services'*/
+

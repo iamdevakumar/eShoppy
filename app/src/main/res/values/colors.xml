@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#80d8ff</color>
+    <color name="Font_Color">#ffffff</color>
+    <color name="White_Text_color">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="sidebar">#1383dd</color>
+    <color name="sidebardark">#03a9f4</color>
+    <color name="mythemecolorAccent">#b7b7b7</color>
+    <color name="cartcolor">#84d62e</color>
+
+
+</resources>

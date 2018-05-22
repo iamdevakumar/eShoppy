@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_c90a78775f0cd55c36c4969f2cdbe6d16b095afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\hanks.xyz\smallbang-library\0.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4d1321eac98b237f7df36aadcbaefa1fe662551">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\hanks.xyz-smallbang-library-0.1.2_7c63ce19ba7570e229fe8a726b87925f5ad5818b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_948eea9c02f5d8a3adcf4a708daa138efc9bbe41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_d61625be1447f5e15cfaec540d139ebebcfe5e4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elcat-PC\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_ded4aed8784aef2756adf2b5ebac3189112d5f08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\hanks.xyz\smallbang-library\0.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4d1321eac98b237f7df36aadcbaefa1fe662551">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\hanks.xyz-smallbang-library-0.1.2_ba60c7a74cd64f89f19ccccb46123c64498872dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_bda1b9a52f993cf70a71bf05ed0f3f3fcfea7cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_b4dce37fffb534bedb144ef22a328f64ec771c70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_ff67ae486316d0f17f72cfeea77dd86fcb9f4b0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.synnapps\carouselview\0.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebac93e92df3136161ff1ac7b0595ca32a9e4b97">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.synnapps-carouselview-0.0.9_d69ece1dda9da4afd10a0e11a23b537fe9bfd974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_782141d8cb04fa73e7877df062b928209994522b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8298c9bddb8e77ec418ee3cd3bd5d4bbee93b10f">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d29e9cd0eab384011d4d2e89177f572b099990d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.githang\viewpagerindicator\2.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9346b378b1040c324f40c5c01b2efb739e90462">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.githang-viewpagerindicator-2.4.2_721f60f33c5584613fc2572d810e4357f366a8ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_fc0371ba2072c18ddacff2d624e97982df7c92df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.githang\viewpagerindicator\2.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9346b378b1040c324f40c5c01b2efb739e90462">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.githang-viewpagerindicator-2.4.2_ee56d79d91e56723cca192a1611d30c2e9291ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d7c345b1db2a4e7abc889a65ef5b7b3de32d0b3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.sdsmdg.tastytoast\tastytoast\0.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a54185033de99e5357b5bb4a6e07ddf74f079942">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.sdsmdg.tastytoast-tastytoast-0.0.4_794182cf8db96d974bd27a559327b5d9e3108500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elcat-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_56bec5d4082d43a93307eacdd2b0182bf46cd7fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\libs\android-viewbadger.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-viewbadger_7a5bf2114dfcc4434ca546d6a40a266e652ef8d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_cb19a4dead8f30417a4ad9e05174c3da2b2a4987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_936fe038cefe8acfe616492e3b17f9097b186059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_7d85b00a6027023d78e1f9a90e928dd5fef79138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62f2d3dad5c4df2675263b285f4e522ceec8d87">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_870062b4a9c5117e3d41fd0f739041a634a70985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_be820de6c483eb82c4d14ae81fd34d94daf00fb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_fc9f5cb02972a9248deb890d53b41736962f5a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elcat-PC\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.8\c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e\rebound-0.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\rebound-0.3.8_958a48766a09202f4a4c07f2f192870f11697215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_dacd4e92e6bf6c7f58b0c008c2d2b6722d8cd037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.sdsmdg.tastytoast\tastytoast\0.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a54185033de99e5357b5bb4a6e07ddf74f079942">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.sdsmdg.tastytoast-tastytoast-0.0.4_b3b37d8cceeb0149e5a0ce1ab06cb3d55dc91792\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_9c8c58067dd8eba8266304049c18df04f806f1a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elcat-PC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_bc5c6221e9d7201a48ab158eec11b5d77b7fc5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.miguelcatalan-materialsearchview-1.4.0_46d20931d1868b2a87a79f7f2a378fcc0e906ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_e872c1a2eb83c2c1d0b9844146545b88ea86a1bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_7fe70079b6d9446318eabe53df8ead6642f99965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6bf1be2ba6544fc21247581ea38eb2aa401f0a9">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_51537c62f7f86608366a4ccce99e249ffc318124\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_cee67e9d4ba477b669a8b2d7c2f69aa9cc27b67f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.synnapps\carouselview\0.0.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebac93e92df3136161ff1ac7b0595ca32a9e4b97">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.synnapps-carouselview-0.0.9_b36912910f7645ce16b7373d0433a1462e053e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_705e870f886dabf29d21e61f3cc13ef28569aea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_c7951089733697ac9b5e7e872d9cd528dfa768a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_5a975161b37488eae28095efb9399389c670b170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_e06ec238677c7dbca9f04b5497cdbce1f4876185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_fd4c91dac57ef33ed16b3e4381bdad757b134bd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_3829f177032c55f027bd2f3abdc233b9dd3f8ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db1a64079ddc7b414383df74008e6a20ef14f980">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e7058d8805de096faf3cf8d3bfc03e924c006ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_7a5bbc8329b0e44e337e669e7d1bd0da29b577a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 31\EPOS 31st Dec\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_12f925cc1edddc06279e4279dea435c5afcc1cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_4dae3ec11850df1faaf4107b6df470e3aef9b360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="E:\Fire Breathers\Devakumar\Dec 9\EPOS\EPOS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_c10434c34fb1930d9338575311da7b00cf40e1b2\classes.dex" />
+    </item>
+
+</items>

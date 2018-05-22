@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Devakumar\\My personal\\Reference\\EPOS j1\\EPOS jan1\\EPOS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\system11\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.1.aar\\c92e27917d0fa42543f0bcf2855fd2cb\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

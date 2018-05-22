@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Devakumar\\My personal\\Reference\\EPOS j1\\EPOS jan1\\EPOS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Devakumar\\My personal\\Reference\\EPOS j1\\EPOS jan1\\EPOS\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,19,20,7,22,12,16,13,14,15,4,11,10,6,8,9,21,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "90,149,962,1015,372,1099,603,809,652,704,757,206,553,503,321,411,457,1055,864,913",
+                        "endColumns": "57,55,51,38,37,44,47,53,50,51,50,40,48,48,49,44,44,42,47,47",
+                        "endOffsets": "143,200,1009,1049,405,1139,646,858,698,751,803,242,597,547,366,451,497,1093,907,956"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,221,260,298,343,391,445,496,548,599,640,689,738,788,833,878,921,969",
+                        "endColumns": "57,55,51,38,37,44,47,53,50,51,50,40,48,48,49,44,44,42,47,47",
+                        "endOffsets": "108,164,216,255,293,338,386,440,491,543,594,635,684,733,783,828,873,916,964,1012"
+                    }
+                },
+                {
+                    "source": "E:\\Devakumar\\My personal\\Reference\\EPOS j1\\EPOS jan1\\EPOS\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "from": {
+                        "startLines": "6,8,2,5,3,10,7,4,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,366,57,189,100,494,327,138,427",
+                        "endColumns": "43,59,41,91,36,63,37,49,65",
+                        "endOffsets": "321,421,94,276,132,553,360,183,488"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1017,1061,1121,1163,1255,1292,1356,1394,1444",
+                        "endColumns": "43,59,41,91,36,63,37,49,65",
+                        "endOffsets": "1056,1116,1158,1250,1287,1351,1389,1439,1505"
+                    }
+                }
+            ]
+        }
+    ]
+}
